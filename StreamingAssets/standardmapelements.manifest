@@ -1,0 +1,90 @@
+ManifestFileVersion: 0
+CRC: 2913959203
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd2ccb3f05ee34eafa38d41e3d56938c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 02bf7fb93f8b5ebce04778ee835a4dff
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 530d7887c9ced9540a6ad15f13eda37b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5d1016462c1b53c4895d6913043de6e8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cee1841c2e2bf5f459178a81f7edaa3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 183
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: FloatRef
+- AssemblyName: Assembly-CSharp
+  ClassName: TimerRef
+Assets:
+- Assets/Resources/asset MGP gate.prefab
+- Assets/Resources/asset pop-up gate.prefab
+- Assets/Resources/small tree.prefab
+- Assets/Resources/asset MGP gate double.prefab
+- Assets/Resources/asset pole.prefab
+- Assets/Resources/asset MGP hurdle large.prefab
+- Assets/Resources/Materials/Metal/gate aluminum.mat
+- Assets/Resources/asset concrete block.prefab
+- Assets/Resources/asset pine tree 12m.prefab
+- Assets/Resources/asset checkpoint square.prefab
+- Assets/Resources/asset MGP gate large.prefab
+- Assets/Resources/Materials/Organic/Pine Tree 12m.mat
+- Assets/Resources/Materials/Synthetic/fabric/mgp flag fabric.mat
+- Assets/Resources/Materials/Organic/tree1branch.mat
+- Assets/Resources/Materials/Synthetic/black plastic.mat
+- Assets/Resources/asset launch pad.prefab
+- Assets/Resources/asset MGP gate hanging large.prefab
+- Assets/Resources/Materials/Metal/launch stand metal.mat
+- Assets/Resources/Materials/Synthetic/cone plastic.mat
+- Assets/Resources/Materials/Synthetic/fabric/mgp hurdle fabric.mat
+- Assets/Resources/Materials/Synthetic/fabric/mgp fabric.mat
+- Assets/Resources/asset MGP gate double large.prefab
+- Assets/Resources/Materials/Synthetic/fabric/Popup fabric.mat
+- Assets/Resources/asset MGP hurdle.prefab
+- Assets/Resources/asset MGP flag.prefab
+- Assets/Resources/asset table.prefab
+- Assets/Resources/asset MGP gate high large.prefab
+- Assets/Resources/asset MGP gate angled dive large.prefab
+- Assets/Resources/Materials/Synthetic/fabric/luminier fabric.mat
+- Assets/Resources/Materials/Organic/Pine Tree 12m branches.mat
+- Assets/Resources/Materials/Rock/Concrete 1.mat
+- Assets/Resources/Materials/Synthetic/fabric/NylonStraps.mat
+- Assets/Resources/asset MGP ladder large.prefab
+- Assets/Resources/asset cone.prefab
+- Assets/Resources/asset lumenier gate large.prefab
+- Assets/Resources/asset MGP gate dive large.prefab
+- Assets/Resources/Materials/Synthetic/launch stand pad.mat
+- Assets/Resources/Materials/Organic/tree1trunk.mat
+Dependencies: []
